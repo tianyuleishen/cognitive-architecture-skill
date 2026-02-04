@@ -31,7 +31,7 @@ If you prefer manual installation:
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill.git cognitive-architecture
+   git clone https://github.com/tianyuleishen/cognitive-architecture-skill.git cognitive-architecture
    ```
 
 3. Verify the installation:
@@ -119,7 +119,7 @@ git pull origin main
 ### Getting Help:
 
 - Check the OpenClaw documentation: https://docs.openclaw.ai
-- Visit our GitHub issues: https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill/issues
+- Visit our GitHub issues: https://github.com/tianyuleishen/cognitive-architecture-skill/issues
 - Join the OpenClaw Discord: https://discord.gg/clawd
 
 ## Next Steps

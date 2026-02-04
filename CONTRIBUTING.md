@@ -10,7 +10,7 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a wel
 
 ### Reporting Bugs
 
-- Check the [Issues](https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill/issues) to see if the bug has already been reported
+- Check the [Issues](https://github.com/tianyuleishen/cognitive-architecture-skill/issues) to see if the bug has already been reported
 - Use a clear and descriptive title
 - Include as much information as possible:
   - OpenClaw version
@@ -22,7 +22,7 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a wel
 
 ### Suggesting Features
 
-- Check the [Issues](https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill/issues) to see if the feature has already been suggested
+- Check the [Issues](https://github.com/tianyuleishen/cognitive-architecture-skill/issues) to see if the feature has already been suggested
 - Explain why this feature would be useful
 - Describe the desired behavior
 - Provide examples if possible
