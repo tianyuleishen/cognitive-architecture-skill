@@ -104,6 +104,18 @@ cd ~/.openclaw/workspace/skills/cognitive-architecture
 git pull origin main
 ```
 
+## Migration and Upgrade Safety
+
+The cognitive architecture skill includes a comprehensive migration system that ensures your memory documents and data are preserved during upgrades. The system automatically creates backups before any upgrade and provides rollback capabilities if needed.
+
+### Migration Features:
+- Automatic backup before upgrades
+- Memory preservation during version updates
+- Safe rollback to previous versions
+- Version compatibility management
+
+For detailed upgrade instructions, see the [Migration System Documentation](migration/README.md).
+
 ## Troubleshooting
 
 ### Common Issues:

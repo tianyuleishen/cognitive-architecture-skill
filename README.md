@@ -189,6 +189,33 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## 🔄 Upgrades and Migration
+
+The cognitive architecture skill includes a comprehensive migration system to ensure memory documents and data are preserved during upgrades.
+
+### Safe Upgrades
+- Automatic backup before any upgrade
+- Memory preservation during version updates
+- Safe rollback capabilities
+- Version compatibility management
+
+### Upgrade Commands
+```bash
+# Check for updates
+node migration/upgrade.js check
+
+# Perform a dry run
+node migration/upgrade.js dry-run
+
+# Upgrade to latest version
+node migration/upgrade.js upgrade
+
+# Upgrade to specific version
+node migration/upgrade.js upgrade v1.2.0
+```
+
+For more details, see the [Migration System Documentation](migration/README.md).
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
