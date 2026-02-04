@@ -56,7 +56,7 @@ clawhub install cognitive-architecture
 cd ~/.openclaw/workspace/skills
 
 # Clone the repository
-git clone https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill.git cognitive-architecture
+git clone https://github.com/tianyuleishen/cognitive-architecture-skill.git cognitive-architecture
 
 # Or create the directory structure manually
 mkdir -p cognitive-architecture
@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- [GitHub Issues](https://github.com/[YOUR_USERNAME]/cognitive-architecture-skill/issues)
+- [GitHub Issues](https://github.com/tianyuleishen/cognitive-architecture-skill/issues)
 - [OpenClaw Documentation](https://docs.openclaw.ai)
 - [Community Discord](https://discord.gg/clawd)
 
